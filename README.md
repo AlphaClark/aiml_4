@@ -1,1 +1,2 @@
+# Classification with Logistic Regression
 In this task, I used the Breast Cancer Wisconsin (Diagnostic) Dataset to preprocess the data (which includes nurmerical encoding, dropping irrelevant columns, etc), split the data into training and testing sets, standardise features, fit a logistic regression model, evaluate the model using different metrics, plot the regression of gthe model and tune threshold to find its optimal value
